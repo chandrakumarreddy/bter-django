@@ -116,3 +116,5 @@ celerybeat-schedule
 dmypy.json
 
 .pyre/
+
+/static
